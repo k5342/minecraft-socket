@@ -2,7 +2,9 @@
 
 A Ruby implementation of minecraft protocol
 
-# Acknowledgements
+server list ping is only implemented
+
+## Acknowledgements
 
 * Protocol - wiki.vg
   * [http://wiki.vg/Protocol](http://wiki.vg/Protocol)
